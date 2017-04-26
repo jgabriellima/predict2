@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Análise1>
+  <vertice>
+    <nome>R$/US$</nome>
+    <nPais>0</nPais>
+    <nFilhos>2</nFilhos>
+    <estados>0,1,2,3,4,</estados>
+    <pais />
+    <filhos>TOTAL DA RECEITA,Indústria de transformação,</filhos>
+  </vertice>
+  <vertice>
+    <nome>TOTAL DA RECEITA</nome>
+    <nPais>1</nPais>
+    <nFilhos>7</nFilhos>
+    <estados>0,1,2,3,4,</estados>
+    <pais>R$/US$,</pais>
+    <filhos>Indústria de transformação,RESIDENCIAL (MWh),INDUSTRIAL (MWh),COMERCIAL (MWh),RURAL (MWh),PODER PÚBLICO (MWh),ILUMINAÇÃO PÚBLICA (MWh),</filhos>
+  </vertice>
+  <vertice>
+    <nome>Indústria de transformação</nome>
+    <nPais>2</nPais>
+    <nFilhos>6</nFilhos>
+    <estados>1,0,2,3,4,</estados>
+    <pais>R$/US$,TOTAL DA RECEITA,</pais>
+    <filhos>RESIDENCIAL (MWh),INDUSTRIAL (MWh),COMERCIAL (MWh),RURAL (MWh),PODER PÚBLICO (MWh),ILUMINAÇÃO PÚBLICA (MWh),</filhos>
+  </vertice>
+  <vertice>
+    <nome>RESIDENCIAL (MWh)</nome>
+    <nPais>2</nPais>
+    <nFilhos>0</nFilhos>
+    <estados>1,2,0,3,4,</estados>
+    <pais>TOTAL DA RECEITA,Indústria de transformação,</pais>
+    <filhos />
+  </vertice>
+  <vertice>
+    <nome>INDUSTRIAL (MWh)</nome>
+    <nPais>2</nPais>
+    <nFilhos>0</nFilhos>
+    <estados>0,1,2,3,4,</estados>
+    <pais>TOTAL DA RECEITA,Indústria de transformação,</pais>
+    <filhos />
+  </vertice>
+  <vertice>
+    <nome>COMERCIAL (MWh)</nome>
+    <nPais>2</nPais>
+    <nFilhos>0</nFilhos>
+    <estados>0,1,2,3,4,</estados>
+    <pais>TOTAL DA RECEITA,Indústria de transformação,</pais>
+    <filhos />
+  </vertice>
+  <vertice>
+    <nome>RURAL (MWh)</nome>
+    <nPais>2</nPais>
+    <nFilhos>0</nFilhos>
+    <estados>0,1,2,3,4,</estados>
+    <pais>TOTAL DA RECEITA,Indústria de transformação,</pais>
+    <filhos />
+  </vertice>
+  <vertice>
+    <nome>PODER PÚBLICO (MWh)</nome>
+    <nPais>2</nPais>
+    <nFilhos>0</nFilhos>
+    <estados>0,1,2,3,4,</estados>
+    <pais>TOTAL DA RECEITA,Indústria de transformação,</pais>
+    <filhos />
+  </vertice>
+  <vertice>
+    <nome>ILUMINAÇÃO PÚBLICA (MWh)</nome>
+    <nPais>2</nPais>
+    <nFilhos>0</nFilhos>
+    <estados>0,1,2,3,4,</estados>
+    <pais>TOTAL DA RECEITA,Indústria de transformação,</pais>
+    <filhos />
+  </vertice>
+</Análise1>
+

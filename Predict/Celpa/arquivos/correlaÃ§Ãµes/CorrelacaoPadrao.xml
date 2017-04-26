@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+  <c1>
+    <nome>ConsumoporClassenoEstadoInterligadoFIOXClima</nome>
+    <atributos>Ind Pluvio - cl,Temp Maxima - cl,Temp Mínima - cl,Umidade do Ar - cl,RESIDENCIAL (MWh)-FIO,INDUSTRIAL (MWh)-FIO,COMERCIAL (MWh)-FIO,RURAL (MWh)-FIO,PODER PÚBLICO (MWh)-FIO,ILUMINAÇÃO PÚBLICA (MWh)-FIO,</atributos>
+  </c1>
+  <c2>
+    <nome>ConsumoporClassenoEstadoInterligadoCATIVOXClima</nome>
+    <atributos>Ind Pluvio - cl,Temp Maxima - cl,Temp Mínima - cl,Umidade do Ar - cl,RESIDENCIAL (MWh)-CATIVO,INDUSTRIAL (MWh)-CATIVO,COMERCIAL (MWh)-CATIVO,RURAL (MWh)-CATIVO,PODER PÚBLICO (MWh)-CATIVO,ILUMINAÇÃO PÚBLICA (MWh)-CATIVO,</atributos>
+  </c2>
+  <c3>
+    <nome>ConsumoporClassenoEstadoTotalXClima</nome>
+    <atributos>Ind Pluvio - cl,Temp Maxima - cl,Temp Mínima - cl,Umidade do Ar - cl,RESIDENCIAL TOTAL (MWh)-CELPA,INDUSTRIAL TOTAL (MWh) (FIO)-CELPA,INDUSTRIAL TOTAL (MWh) (CATIVO)-CELPA,COMERCIAL TOTAL (MWh)  (FIO)-CELPA,COMERCIAL TOTAL (MWh) (CATIVO)-CELPA,RURAL (MWh)-CELPA,PODER PÚBLICO (MWh)-CELPA,ILUMINAÇÃO PÚBLICA (MWh)-CELPA,</atributos>
+  </c3>
+  <c4>
+    <nome>ConsumoporClassenoEstadoInterligadoFIOXSócio-Econômico</nome>
+    <atributos>R$/US$ -se,TOTAL DA RECEITA -se,Indústria de transformação -se,Agropecuária -se,RESIDENCIAL (MWh)-FIO,INDUSTRIAL (MWh)-FIO,COMERCIAL (MWh)-FIO,RURAL (MWh)-FIO,PODER PÚBLICO (MWh)-FIO,ILUMINAÇÃO PÚBLICA (MWh)-FIO,</atributos>
+  </c4>
+  <c5>
+    <nome>ConsumoporClassenoEstadoInterligadoCATIVOXSócio-Econômico</nome>
+    <atributos>R$/US$ -se,TOTAL DA RECEITA -se,Indústria de transformação -se,Agropecuária -se,RESIDENCIAL (MWh)-CATIVO,INDUSTRIAL (MWh)-CATIVO,COMERCIAL (MWh)-CATIVO,RURAL (MWh)-CATIVO,PODER PÚBLICO (MWh)-CATIVO,ILUMINAÇÃO PÚBLICA (MWh)-CATIVO,SERVIÇO PÚBLICO (MWh)-CATIVO,CONSUMO PRÓPRIO (MWh)-CATIVO,</atributos>
+  </c5>
+  <c6>
+    <nome>ConsumoporClassenoEstadoIsoladoXClima</nome>
+    <atributos>Ind Pluvio - cl,Temp Maxima - cl,Temp Mínima - cl,Umidade do Ar - cl,RESIDENCIAL (MWh)-Isolado,INDUSTRIAL (MWh)-Isolado,COMERCIAL (MWh)-Isolado,RURAL (MWh)-Isolado,PODER PÚBLICO (MWh)-Isolado,ILUMINAÇÃO PÚBLICA (MWh)-Isolado,SERVIÇO PÚBLICO (MWh)-Isolado,</atributos>
+  </c6>
+  <c7>
+    <nome>ConsumoporClassenoEstadoIsoladoXSócio-Econômico</nome>
+    <atributos>R$/US$ -se,TOTAL DA RECEITA -se,Indústria de transformação -se,Agropecuária -se,RESIDENCIAL (MWh)-Isolado,INDUSTRIAL (MWh)-Isolado,COMERCIAL (MWh)-Isolado,RURAL (MWh)-Isolado,PODER PÚBLICO (MWh)-Isolado,ILUMINAÇÃO PÚBLICA (MWh)-Isolado,SERVIÇO PÚBLICO (MWh)-Isolado,CONSUMO PRÓPRIO (MWh)-Isolado,</atributos>
+  </c7>
+  <c8>
+    <nome>ConsumoporClassenoEstadoTotalXSócio-Econômico</nome>
+    <atributos>R$/US$ -se,TOTAL DA RECEITA -se,Indústria de transformação -se,Agropecuária -se,RESIDENCIAL TOTAL (MWh)-CELPA,INDUSTRIAL TOTAL (MWh) (FIO)-CELPA,INDUSTRIAL TOTAL (MWh) (CATIVO)-CELPA,COMERCIAL TOTAL (MWh)  (FIO)-CELPA,COMERCIAL TOTAL (MWh) (CATIVO)-CELPA,RURAL (MWh)-CELPA,PODER PÚBLICO (MWh)-CELPA,ILUMINAÇÃO PÚBLICA (MWh)-CELPA,SERVIÇO PÚBLICO (MWh)-CELPA,CONSUMO PRÓPRIO (MWh)-CELPA,</atributos>
+  </c8>
+  <c9>
+    <nome>EnergiaRequeridaInterligadoFIOXClima</nome>
+    <atributos>Ind Pluvio - cl,Temp Maxima - cl,Temp Mínima - cl,Umidade do Ar - cl,ENERGIA REQUERIDA INTERLIGADO (MWh)-FIO,</atributos>
+  </c9>
+  <c10>
+    <nome>EnergiaRequeridaInterligadoCATIVOXClima</nome>
+    <atributos>Ind Pluvio - cl,Temp Maxima - cl,Temp Mínima - cl,Umidade do Ar - cl,ENERGIA REQUERIDA INTERLIGADO (MWh)-CATIVO,</atributos>
+  </c10> 
+  <c11>
+    <nome>EnergiaRequeridaIsoladoXClima</nome>
+    <atributos>Ind Pluvio - cl,Temp Maxima - cl,Temp Mínima - cl,Umidade do Ar - cl,ENERGIA REQUERIDA ISOLADO (MWh)-Isolado,</atributos>
+  </c11>
+  <c12>
+    <nome>EnergiaRequeridaTotalXClima</nome>
+    <atributos>Ind Pluvio - cl,Temp Maxima - cl,Temp Mínima - cl,Umidade do Ar - cl,ENERGIA REQUERIDA TOTAL (MWh) (FIO)-CELPA,ENERGIA REQUERIDA (TOTAL) (MWh) (CATIVO)-CELPA,</atributos>
+  </c12>
+  <c13>
+    <nome>EnergiaRequeridaInterligadoFIOXSócio-Econômico</nome>
+    <atributos>R$/US$ -se,TOTAL DA RECEITA -se,Indústria de transformação -se,Agropecuária -se,ENERGIA REQUERIDA INTERLIGADO (MWh)-FIO,</atributos>
+  </c13>
+  <c14>
+    <nome>EnergiaRequeridaInterligadoCATIVOXSócio-Econômico</nome>
+    <atributos>R$/US$ -se,TOTAL DA RECEITA -se,Indústria de transformação -se,Agropecuária -se,ENERGIA REQUERIDA INTERLIGADO (MWh)-CATIVO,</atributos>
+  </c14>
+  <c15>
+    <nome>EnergiaRequeridaIsoladoXSócio-Econômico</nome>
+    <atributos>R$/US$ -se,TOTAL DA RECEITA -se,Indústria de transformação -se,Agropecuária -se,ENERGIA REQUERIDA ISOLADO (MWh)-Isolado,</atributos>
+  </c15>
+  <c16>
+    <nome>EnergiaRequeridaTotalXSócio-Econômico</nome>
+    <atributos>R$/US$ -se,TOTAL DA RECEITA -se,Indústria de transformação -se,Agropecuária -se,ENERGIA REQUERIDA TOTAL (MWh) (FIO)-CELPA,ENERGIA REQUERIDA (TOTAL) (MWh) (CATIVO)-CELPA,</atributos>
+  </c16>
+  <c17>
+    <nome>ConsumoFaturadoInterligadoFIOXClima</nome>
+    <atributos>Ind Pluvio - cl,Temp Maxima - cl,Temp Mínima - cl,Umidade do Ar - cl,CONSUMO FATURADO INTERLIGADO (MWh)-FIO,</atributos>
+  </c17>
+  <c18>
+    <nome>ConsumoFaturadoInterligadoCATIVOXClima</nome>
+    <atributos>Ind Pluvio - cl,Temp Maxima - cl,Temp Mínima - cl,Umidade do Ar - cl,CONSUMO FATURADO INTERLIGADO (MWh)-CATIVO,</atributos>
+  </c18>
+  <c19>
+    <nome>ConsumoFaturadoIsoladoXClima</nome>
+    <atributos>Ind Pluvio - cl,Temp Maxima - cl,Temp Mínima - cl,Umidade do Ar - cl,CONSUMO FATURADO ISOLADO (MWh)-Isolado,</atributos>
+  </c19>
+  <c20>
+    <nome>ConsumoFaturadoTotalXClima</nome>
+    <atributos>Ind Pluvio - cl,Temp Maxima - cl,Temp Mínima - cl,Umidade do Ar - cl,CONSUMO FATURADO TOTAL (MWh) (FIO)-CELPA,CONSUMO FATURADO TOTAL (MWh) (CATIVO)-CELPA,</atributos>
+  </c20>
+  <c21>
+    <nome>ConsumoFaturadoInterligadoFIOXSócio-Econômico</nome>
+    <atributos>R$/US$ -se,TOTAL DA RECEITA -se,Indústria de transformação -se,Agropecuária -se,CONSUMO FATURADO INTERLIGADO (MWh)-FIO,</atributos>
+  </c21>
+  <c22>
+    <nome>ConsumoFaturadoInterligadoCATIVOXSócio-Econômico</nome>
+    <atributos>R$/US$ -se,TOTAL DA RECEITA -se,Indústria de transformação -se,Agropecuária -se,CONSUMO FATURADO INTERLIGADO (MWh)-CATIVO,</atributos>
+  </c22>
+  <c23>
+    <nome>ConsumoFaturadoIsoladoXSócio-Econômico</nome>
+    <atributos>R$/US$ -se,TOTAL DA RECEITA -se,Indústria de transformação,Agropecuária -se,CONSUMO FATURADO ISOLADO (MWh)-Isolado,</atributos>
+  </c23>
+  <c24>
+    <nome>ConsumoFaturadoTotalXSócio-Econômico</nome>
+    <atributos>R$/US$ -se,TOTAL DA RECEITA -se,Indústria de transformação -se,Agropecuária -se,CONSUMO FATURADO TOTAL (MWh) (FIO)-CELPA,CONSUMO FATURADO TOTAL (MWh) (CATIVO)-CELPA,</atributos>
+  </c24>
+</root>
+

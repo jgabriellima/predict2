@@ -1,0 +1,8 @@
+AnoInicial=	1991	
+AnoLimiar=	2008	
+AnoFinal=	2009	
+MesFinal=	12	
+NumEntradas=	12	
+NumSaidas=	12	
+LagMeses=	12	
+FatorNormaliza??o=	939954.4531	
