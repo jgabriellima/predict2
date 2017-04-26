@@ -1,0 +1,1663 @@
+		Initializing .... 
+
+Total memory allocated = 5454196
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 0 	User path -1 -1 -1
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 3 	User path 54 54 54
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 8 	User path 131 131 131
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 10 	User path 142 142 142
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 12 	User path 146 146 146
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 14 	User path 171 171 171
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 183 183
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 17 	User path 196 196 196
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 20 	User path 233 233 233
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 28 	User path 304 304 304
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 30 	User path 314 314 314
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 32 	User path 328 328 328
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 34 	User path 344 344 344
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 35 	User path 344 362 344
+
+Seed point: 22 10 	Path 36 36 	User path 362 362 362
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+[22 10] [22 10] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 35 	User path 344 362 344
+
+Seed point: 22 10 	Path 36 36 	User path 362 404 362
+
+Seed point: 22 10 	Path 37 37 	User path 404 404 404
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+[22 10] [22 10] [22 10] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 35 	User path 344 362 344
+
+Seed point: 22 10 	Path 36 36 	User path 362 404 362
+
+Seed point: 22 10 	Path 37 38 	User path 404 580 404
+
+Seed point: 22 11 	Path 39 39 	User path 580 580 580
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+[22 10] [22 10] [22 10] [22 11] [22 11] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 35 	User path 344 362 344
+
+Seed point: 22 10 	Path 36 36 	User path 362 404 362
+
+Seed point: 22 10 	Path 37 38 	User path 404 580 404
+
+Seed point: 22 11 	Path 39 40 	User path 580 730 580
+
+Seed point: 22 12 	Path 41 41 	User path 730 730 730
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+[22 10] [22 10] [22 10] [22 11] [22 11] [22 12] [22 12] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 35 	User path 344 362 344
+
+Seed point: 22 10 	Path 36 36 	User path 362 404 362
+
+Seed point: 22 10 	Path 37 38 	User path 404 580 404
+
+Seed point: 22 11 	Path 39 40 	User path 580 730 580
+
+Seed point: 22 12 	Path 41 41 	User path 730 747 730
+
+Seed point: 22 12 	Path 42 42 	User path 747 747 747
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+[22 10] [22 10] [22 10] [22 11] [22 11] [22 12] [22 12] 
+[22 12] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 35 	User path 344 362 344
+
+Seed point: 22 10 	Path 36 36 	User path 362 404 362
+
+Seed point: 22 10 	Path 37 38 	User path 404 580 404
+
+Seed point: 22 11 	Path 39 40 	User path 580 730 580
+
+Seed point: 22 12 	Path 41 41 	User path 730 747 730
+
+Seed point: 22 12 	Path 42 42 	User path 747 868 747
+
+Seed point: 22 12 	Path 43 43 	User path 868 868 868
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+[22 10] [22 10] [22 10] [22 11] [22 11] [22 12] [22 12] 
+[22 12] [22 12] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 35 	User path 344 362 344
+
+Seed point: 22 10 	Path 36 36 	User path 362 404 362
+
+Seed point: 22 10 	Path 37 38 	User path 404 580 404
+
+Seed point: 22 11 	Path 39 40 	User path 580 730 580
+
+Seed point: 22 12 	Path 41 41 	User path 730 747 730
+
+Seed point: 22 12 	Path 42 42 	User path 747 868 747
+
+Seed point: 22 12 	Path 43 45 	User path 868 983 868
+
+Seed point: 22 14 	Path 46 46 	User path 983 983 983
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+[22 10] [22 10] [22 10] [22 11] [22 11] [22 12] [22 12] 
+[22 12] [22 12] [22 13] [22 14] [22 14] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 35 	User path 344 362 344
+
+Seed point: 22 10 	Path 36 36 	User path 362 404 362
+
+Seed point: 22 10 	Path 37 38 	User path 404 580 404
+
+Seed point: 22 11 	Path 39 40 	User path 580 730 580
+
+Seed point: 22 12 	Path 41 41 	User path 730 747 730
+
+Seed point: 22 12 	Path 42 42 	User path 747 868 747
+
+Seed point: 22 12 	Path 43 45 	User path 868 983 868
+
+Seed point: 22 14 	Path 46 47 	User path 983 995 983
+
+Seed point: 22 13 	Path 48 48 	User path 995 995 995
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+[22 10] [22 10] [22 10] [22 11] [22 11] [22 12] [22 12] 
+[22 12] [22 12] [22 13] [22 14] [22 14] [22 13] [22 13] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 35 	User path 344 362 344
+
+Seed point: 22 10 	Path 36 36 	User path 362 404 362
+
+Seed point: 22 10 	Path 37 38 	User path 404 580 404
+
+Seed point: 22 11 	Path 39 40 	User path 580 730 580
+
+Seed point: 22 12 	Path 41 41 	User path 730 747 730
+
+Seed point: 22 12 	Path 42 42 	User path 747 868 747
+
+Seed point: 22 12 	Path 43 45 	User path 868 983 868
+
+Seed point: 22 14 	Path 46 47 	User path 983 995 983
+
+Seed point: 22 13 	Path 48 56 	User path 995 1047 995
+
+Seed point: 21 20 	Path 57 57 	User path 1047 1047 1047
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+[22 10] [22 10] [22 10] [22 11] [22 11] [22 12] [22 12] 
+[22 12] [22 12] [22 13] [22 14] [22 14] [22 13] [22 13] 
+[22 14] [22 15] [22 16] [22 17] [22 18] [22 19] [22 20] 
+[21 20] [21 20] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 35 	User path 344 362 344
+
+Seed point: 22 10 	Path 36 36 	User path 362 404 362
+
+Seed point: 22 10 	Path 37 38 	User path 404 580 404
+
+Seed point: 22 11 	Path 39 40 	User path 580 730 580
+
+Seed point: 22 12 	Path 41 41 	User path 730 747 730
+
+Seed point: 22 12 	Path 42 42 	User path 747 868 747
+
+Seed point: 22 12 	Path 43 45 	User path 868 983 868
+
+Seed point: 22 14 	Path 46 47 	User path 983 995 983
+
+Seed point: 22 13 	Path 48 56 	User path 995 1047 995
+
+Seed point: 21 20 	Path 57 57 	User path 1047 1056 1047
+
+Seed point: 21 20 	Path 58 58 	User path 1056 1056 1056
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+[22 10] [22 10] [22 10] [22 11] [22 11] [22 12] [22 12] 
+[22 12] [22 12] [22 13] [22 14] [22 14] [22 13] [22 13] 
+[22 14] [22 15] [22 16] [22 17] [22 18] [22 19] [22 20] 
+[21 20] [21 20] [21 20] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 35 	User path 344 362 344
+
+Seed point: 22 10 	Path 36 36 	User path 362 404 362
+
+Seed point: 22 10 	Path 37 38 	User path 404 580 404
+
+Seed point: 22 11 	Path 39 40 	User path 580 730 580
+
+Seed point: 22 12 	Path 41 41 	User path 730 747 730
+
+Seed point: 22 12 	Path 42 42 	User path 747 868 747
+
+Seed point: 22 12 	Path 43 45 	User path 868 983 868
+
+Seed point: 22 14 	Path 46 47 	User path 983 995 983
+
+Seed point: 22 13 	Path 48 56 	User path 995 1047 995
+
+Seed point: 21 20 	Path 57 57 	User path 1047 1056 1047
+
+Seed point: 21 20 	Path 58 59 	User path 1056 1067 1056
+
+Seed point: 21 21 	Path 60 60 	User path 1067 1067 1067
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+[22 10] [22 10] [22 10] [22 11] [22 11] [22 12] [22 12] 
+[22 12] [22 12] [22 13] [22 14] [22 14] [22 13] [22 13] 
+[22 14] [22 15] [22 16] [22 17] [22 18] [22 19] [22 20] 
+[21 20] [21 20] [21 20] [21 21] [21 21] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 35 	User path 344 362 344
+
+Seed point: 22 10 	Path 36 36 	User path 362 404 362
+
+Seed point: 22 10 	Path 37 38 	User path 404 580 404
+
+Seed point: 22 11 	Path 39 40 	User path 580 730 580
+
+Seed point: 22 12 	Path 41 41 	User path 730 747 730
+
+Seed point: 22 12 	Path 42 42 	User path 747 868 747
+
+Seed point: 22 12 	Path 43 45 	User path 868 983 868
+
+Seed point: 22 14 	Path 46 47 	User path 983 995 983
+
+Seed point: 22 13 	Path 48 56 	User path 995 1047 995
+
+Seed point: 21 20 	Path 57 57 	User path 1047 1056 1047
+
+Seed point: 21 20 	Path 58 59 	User path 1056 1067 1056
+
+Seed point: 21 21 	Path 60 61 	User path 1067 1078 1067
+
+Seed point: 20 21 	Path 62 62 	User path 1078 1078 1078
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+[22 10] [22 10] [22 10] [22 11] [22 11] [22 12] [22 12] 
+[22 12] [22 12] [22 13] [22 14] [22 14] [22 13] [22 13] 
+[22 14] [22 15] [22 16] [22 17] [22 18] [22 19] [22 20] 
+[21 20] [21 20] [21 20] [21 21] [21 21] [20 21] [20 21] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 35 	User path 344 362 344
+
+Seed point: 22 10 	Path 36 36 	User path 362 404 362
+
+Seed point: 22 10 	Path 37 38 	User path 404 580 404
+
+Seed point: 22 11 	Path 39 40 	User path 580 730 580
+
+Seed point: 22 12 	Path 41 41 	User path 730 747 730
+
+Seed point: 22 12 	Path 42 42 	User path 747 868 747
+
+Seed point: 22 12 	Path 43 45 	User path 868 983 868
+
+Seed point: 22 14 	Path 46 47 	User path 983 995 983
+
+Seed point: 22 13 	Path 48 56 	User path 995 1047 995
+
+Seed point: 21 20 	Path 57 57 	User path 1047 1056 1047
+
+Seed point: 21 20 	Path 58 59 	User path 1056 1067 1056
+
+Seed point: 21 21 	Path 60 61 	User path 1067 1078 1067
+
+Seed point: 20 21 	Path 62 63 	User path 1078 1096 1078
+
+Seed point: 20 22 	Path 64 64 	User path 1096 1096 1096
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+[22 10] [22 10] [22 10] [22 11] [22 11] [22 12] [22 12] 
+[22 12] [22 12] [22 13] [22 14] [22 14] [22 13] [22 13] 
+[22 14] [22 15] [22 16] [22 17] [22 18] [22 19] [22 20] 
+[21 20] [21 20] [21 20] [21 21] [21 21] [20 21] [20 21] 
+[20 22] [20 22] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 35 	User path 344 362 344
+
+Seed point: 22 10 	Path 36 36 	User path 362 404 362
+
+Seed point: 22 10 	Path 37 38 	User path 404 580 404
+
+Seed point: 22 11 	Path 39 40 	User path 580 730 580
+
+Seed point: 22 12 	Path 41 41 	User path 730 747 730
+
+Seed point: 22 12 	Path 42 42 	User path 747 868 747
+
+Seed point: 22 12 	Path 43 45 	User path 868 983 868
+
+Seed point: 22 14 	Path 46 47 	User path 983 995 983
+
+Seed point: 22 13 	Path 48 56 	User path 995 1047 995
+
+Seed point: 21 20 	Path 57 57 	User path 1047 1056 1047
+
+Seed point: 21 20 	Path 58 59 	User path 1056 1067 1056
+
+Seed point: 21 21 	Path 60 61 	User path 1067 1078 1067
+
+Seed point: 20 21 	Path 62 63 	User path 1078 1096 1078
+
+Seed point: 20 22 	Path 64 69 	User path 1096 1156 1096
+
+Seed point: 15 22 	Path 70 70 	User path 1156 1156 1156
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+[22 10] [22 10] [22 10] [22 11] [22 11] [22 12] [22 12] 
+[22 12] [22 12] [22 13] [22 14] [22 14] [22 13] [22 13] 
+[22 14] [22 15] [22 16] [22 17] [22 18] [22 19] [22 20] 
+[21 20] [21 20] [21 20] [21 21] [21 21] [20 21] [20 21] 
+[20 22] [20 22] [19 22] [18 22] [17 22] [16 22] [15 22] 
+[15 22] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 35 	User path 344 362 344
+
+Seed point: 22 10 	Path 36 36 	User path 362 404 362
+
+Seed point: 22 10 	Path 37 38 	User path 404 580 404
+
+Seed point: 22 11 	Path 39 40 	User path 580 730 580
+
+Seed point: 22 12 	Path 41 41 	User path 730 747 730
+
+Seed point: 22 12 	Path 42 42 	User path 747 868 747
+
+Seed point: 22 12 	Path 43 45 	User path 868 983 868
+
+Seed point: 22 14 	Path 46 47 	User path 983 995 983
+
+Seed point: 22 13 	Path 48 56 	User path 995 1047 995
+
+Seed point: 21 20 	Path 57 57 	User path 1047 1056 1047
+
+Seed point: 21 20 	Path 58 59 	User path 1056 1067 1056
+
+Seed point: 21 21 	Path 60 61 	User path 1067 1078 1067
+
+Seed point: 20 21 	Path 62 63 	User path 1078 1096 1078
+
+Seed point: 20 22 	Path 64 69 	User path 1096 1156 1096
+
+Seed point: 15 22 	Path 70 72 	User path 1156 1164 1156
+
+Seed point: 14 21 	Path 73 73 	User path 1164 1164 1164
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+[22 10] [22 10] [22 10] [22 11] [22 11] [22 12] [22 12] 
+[22 12] [22 12] [22 13] [22 14] [22 14] [22 13] [22 13] 
+[22 14] [22 15] [22 16] [22 17] [22 18] [22 19] [22 20] 
+[21 20] [21 20] [21 20] [21 21] [21 21] [20 21] [20 21] 
+[20 22] [20 22] [19 22] [18 22] [17 22] [16 22] [15 22] 
+[15 22] [15 21] [14 21] [14 21] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 35 	User path 344 362 344
+
+Seed point: 22 10 	Path 36 36 	User path 362 404 362
+
+Seed point: 22 10 	Path 37 38 	User path 404 580 404
+
+Seed point: 22 11 	Path 39 40 	User path 580 730 580
+
+Seed point: 22 12 	Path 41 41 	User path 730 747 730
+
+Seed point: 22 12 	Path 42 42 	User path 747 868 747
+
+Seed point: 22 12 	Path 43 45 	User path 868 983 868
+
+Seed point: 22 14 	Path 46 47 	User path 983 995 983
+
+Seed point: 22 13 	Path 48 56 	User path 995 1047 995
+
+Seed point: 21 20 	Path 57 57 	User path 1047 1056 1047
+
+Seed point: 21 20 	Path 58 59 	User path 1056 1067 1056
+
+Seed point: 21 21 	Path 60 61 	User path 1067 1078 1067
+
+Seed point: 20 21 	Path 62 63 	User path 1078 1096 1078
+
+Seed point: 20 22 	Path 64 69 	User path 1096 1156 1096
+
+Seed point: 15 22 	Path 70 72 	User path 1156 1164 1156
+
+Seed point: 14 21 	Path 73 75 	User path 1164 1187 1164
+
+Seed point: 12 21 	Path 76 76 	User path 1187 1187 1187
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+[22 10] [22 10] [22 10] [22 11] [22 11] [22 12] [22 12] 
+[22 12] [22 12] [22 13] [22 14] [22 14] [22 13] [22 13] 
+[22 14] [22 15] [22 16] [22 17] [22 18] [22 19] [22 20] 
+[21 20] [21 20] [21 20] [21 21] [21 21] [20 21] [20 21] 
+[20 22] [20 22] [19 22] [18 22] [17 22] [16 22] [15 22] 
+[15 22] [15 21] [14 21] [14 21] [13 21] [12 21] [12 21] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 35 	User path 344 362 344
+
+Seed point: 22 10 	Path 36 36 	User path 362 404 362
+
+Seed point: 22 10 	Path 37 38 	User path 404 580 404
+
+Seed point: 22 11 	Path 39 40 	User path 580 730 580
+
+Seed point: 22 12 	Path 41 41 	User path 730 747 730
+
+Seed point: 22 12 	Path 42 42 	User path 747 868 747
+
+Seed point: 22 12 	Path 43 45 	User path 868 983 868
+
+Seed point: 22 14 	Path 46 47 	User path 983 995 983
+
+Seed point: 22 13 	Path 48 56 	User path 995 1047 995
+
+Seed point: 21 20 	Path 57 57 	User path 1047 1056 1047
+
+Seed point: 21 20 	Path 58 59 	User path 1056 1067 1056
+
+Seed point: 21 21 	Path 60 61 	User path 1067 1078 1067
+
+Seed point: 20 21 	Path 62 63 	User path 1078 1096 1078
+
+Seed point: 20 22 	Path 64 69 	User path 1096 1156 1096
+
+Seed point: 15 22 	Path 70 72 	User path 1156 1164 1156
+
+Seed point: 14 21 	Path 73 75 	User path 1164 1187 1164
+
+Seed point: 12 21 	Path 76 78 	User path 1187 1269 1187
+
+Seed point: 12 19 	Path 79 79 	User path 1269 1269 1269
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+[22 10] [22 10] [22 10] [22 11] [22 11] [22 12] [22 12] 
+[22 12] [22 12] [22 13] [22 14] [22 14] [22 13] [22 13] 
+[22 14] [22 15] [22 16] [22 17] [22 18] [22 19] [22 20] 
+[21 20] [21 20] [21 20] [21 21] [21 21] [20 21] [20 21] 
+[20 22] [20 22] [19 22] [18 22] [17 22] [16 22] [15 22] 
+[15 22] [15 21] [14 21] [14 21] [13 21] [12 21] [12 21] 
+[12 20] [12 19] [12 19] 
+
+User path
+
+
+[11 18] [11 17] [11 17] [11 17] [11 17] [11 17] [11 17] 
+[11 17] [11 17] [11 16] [11 16] [11 16] [11 16] [11 16] 
+[11 16] [11 16] [11 16] [11 16] [11 16] [11 16] [11 16] 
+[11 15] [11 15] [11 15] [11 15] [11 15] [11 15] [11 15] 
+[11 15] [11 15] [11 15] [11 15] [11 15] [11 16] [11 16] 
+[11 16] [11 16] [11 16] [11 16] [11 16] [11 16] [11 16] 
+[11 16] [11 16] [11 16] [11 16] [11 15] [11 15] [11 15] 
+[11 15] [11 16] [11 16] [11 16] [11 16] [11 16] [11 16] 
+[11 16] [11 16] [11 16] [11 16] [11 16] [11 16] [11 16] 
+[11 16] [11 16] [12 16] [12 16] [11 16] [11 16] [11 16] 
+[11 16] [11 16] [11 16] [11 16] [11 16] [11 16] [11 16] 
+[11 16] [11 15] [11 15] [11 15] [11 15] [11 15] [11 15] 
+[11 15] [11 15] [11 15] [11 15] [11 15] [11 15] [11 15] 
+[11 15] [11 14] [11 14] [11 14] [11 14] [11 14] [11 14] 
+[11 14] [11 14] [11 14] [11 14] [11 14] [11 14] [11 13] 
+[11 13] [11 13] [11 13] [11 13] [11 13] [11 13] [11 12] 
+[11 12] [11 12] [11 12] [11 12] [11 12] [11 12] [11 12] 
+[11 12] [11 13] [11 13] [11 13] [11 13] [11 12] [11 12] 
+[11 12] [11 12] [11 12] [11 12] [11 12] [11 12] [11 12] 
+[11 12] [11 12] [11 12] [11 12] [11 12] [11 12] [11 12] 
+[11 12] [12 12] [12 12] [12 12] [12 11] [12 11] [12 11] 
+[12 11] [12 11] [12 11] [12 11] [12 10] [12 10] [12 10] 
+[12 10] [12 10] [12 10] [12 10] [12 10] [12 10] [12 10] 
+[12 10] [12 10] [12 10] [12 11] [12 11] [12 11] [12 11] 
+[13 11] [13 11] [13 11] [13 11] [13 10] [13 10] [13 10] 
+[13 10] [13 10] [13 10] [13 10] [13 10] [13 10] [13 10] 
+[13 10] [13 10] [13 10] [13 10] [13 10] [13 10] [13 10] 
+[13 10] [13 10] [13 10] [13 10] [13 10] [13 10] [13 10] 
+[13 10] [14 9] [14 9] [14 9] [14 9] [14 9] [14 9] 
+[14 9] [14 9] [14 9] [14 9] [14 9] [14 9] [14 9] 
+[14 9] [14 9] [14 9] [14 9] [14 9] [14 9] [13 9] 
+[13 8] [13 8] [13 8] [13 8] [13 8] [13 8] [13 8] 
+[13 8] [13 8] [13 8] [14 8] [14 8] [14 9] [14 9] 
+[14 9] [14 9] [14 9] [14 9] [14 9] [14 9] [14 9] 
+[14 9] [14 9] [14 9] [14 9] [14 9] [15 9] [15 9] 
+[15 9] [15 9] [15 9] [15 9] [15 9] [15 9] [15 9] 
+[15 9] [15 9] [16 9] [16 9] [16 9] [16 9] [16 9] 
+[16 9] [16 9] [16 9] [16 9] [17 9] [17 9] [17 9] 
+[17 9] [17 9] [17 9] [17 9] [17 9] [18 9] [18 9] 
+[18 9] [18 9] [18 9] [18 9] [19 9] [19 9] [19 9] 
+[19 9] [19 9] [19 9] [19 9] [19 9] [19 9] [19 9] 
+[19 9] [20 9] [20 9] [20 9] [20 9] [20 9] [20 9] 
+[20 9] [20 9] [20 9] [21 9] [21 9] [21 9] [21 9] 
+[21 9] [21 9] [21 9] [21 9] [21 9] [21 9] [21 9] 
+[21 9] [21 9] [21 9] [21 9] [21 9] [21 10] [21 10] 
+[21 10] [21 10] [21 10] [21 10] [21 10] [21 10] [21 10] 
+[21 10] [21 10] [21 10] [22 10] [22 10] [22 10] [22 10] 
+[22 10] [22 10] [22 10] [22 10] [22 10] [22 10] [22 10] 
+[22 10] [22 10] [22 10] [22 10] [22 10] [22 10] [22 10] 
+[22 11] [22 11] [22 10] [22 10] [22 10] [22 10] [22 10] 
+[22 10] [22 10] [22 10] [22 10] [22 10] [22 10] [22 10] 
+[22 10] [22 10] [22 10] [22 10] [22 10] [22 10] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 12] 
+[22 12] [22 12] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 10] [22 10] [22 10] 
+[22 10] [22 10] [22 10] [22 10] [22 10] [22 10] [22 10] 
+[22 10] [22 10] [22 10] [22 10] [22 10] [22 10] [22 10] 
+[22 10] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [21 11] [21 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 13] [22 13] [22 13] [22 13] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 10] [22 10] [22 10] [22 10] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 10] [22 10] [22 10] 
+[22 10] [22 10] [22 10] [22 10] [22 10] [22 10] [22 10] 
+[22 10] [22 10] [22 10] [22 10] [22 10] [22 10] [22 10] 
+[22 10] [22 10] [22 10] [22 10] [22 10] [22 10] [22 10] 
+[22 10] [22 10] [22 10] [22 10] [22 10] [22 10] [22 10] 
+[22 10] [22 10] [22 10] [22 10] [22 10] [22 10] [22 10] 
+[22 10] [22 10] [22 10] [22 10] [22 10] [22 10] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 10] [22 10] [22 10] [22 10] [22 10] [22 10] [22 10] 
+[22 10] [22 10] [22 10] [22 10] [22 10] [22 10] [22 10] 
+[22 10] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 10] [22 10] [22 10] [22 10] [22 10] [22 10] 
+[22 10] [22 10] [22 10] [22 10] [22 10] [22 10] [22 10] 
+[22 10] [22 10] [22 10] [22 10] [22 10] [22 10] [22 10] 
+[22 10] [22 10] [22 10] [22 10] [22 10] [22 10] [22 10] 
+[22 10] [22 10] [22 10] [22 10] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 13] [22 13] [22 13] [22 13] [22 13] [22 13] [22 13] 
+[22 13] [22 13] [22 13] [22 13] [22 13] [22 13] [22 13] 
+[22 13] [22 13] [22 13] [22 13] [22 13] [22 13] [22 13] 
+[22 13] [22 13] [22 13] [22 13] [22 13] [22 13] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 11] [22 11] [22 11] [22 11] 
+[22 11] [22 11] [22 11] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 13] [22 13] [22 13] [22 13] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 13] [22 13] 
+[22 13] [22 13] [22 13] [22 13] [22 13] [22 13] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 13] [22 13] [22 13] [22 13] [22 13] [22 13] 
+[22 13] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [21 12] [22 13] 
+[22 13] [22 13] [22 13] [22 13] [22 13] [22 13] [22 13] 
+[22 13] [22 13] [22 13] [22 13] [22 13] [22 13] [22 13] 
+[22 13] [22 13] [22 13] [22 13] [22 13] [22 13] [22 13] 
+[22 12] [22 12] [22 12] [22 12] [22 12] [22 12] [22 12] 
+[22 12] [22 12] [22 12] [22 12] [22 13] [22 13] [22 13] 
+[22 13] [22 13] [22 13] [22 13] [22 13] [22 13] [22 13] 
+[22 13] [22 13] [22 13] [22 13] [22 13] [22 13] [22 14] 
+[22 14] [22 14] [22 14] [22 14] [22 14] [22 14] [22 14] 
+[22 14] [22 14] [22 14] [22 14] [22 14] [22 14] [22 14] 
+[22 14] [22 14] [22 14] [22 14] [22 13] [22 13] [22 13] 
+[22 13] [22 13] [22 14] [22 14] [22 14] [22 14] [22 14] 
+[22 14] [22 15] [22 15] [22 15] [22 16] [22 16] [22 16] 
+[22 16] [22 16] [22 17] [22 17] [22 17] [22 17] [22 17] 
+[22 17] [22 17] [22 17] [22 17] [22 17] [22 17] [22 17] 
+[22 17] [22 18] [22 18] [22 18] [22 18] [22 18] [22 18] 
+[22 18] [22 18] [22 18] [22 18] [22 19] [22 19] [22 19] 
+[22 19] [22 19] [22 19] [22 19] [22 19] [22 19] [22 19] 
+[22 19] [22 19] [21 19] [21 20] [21 20] [21 20] [21 20] 
+[21 20] [21 20] [21 20] [21 20] [21 20] [21 20] [21 20] 
+[21 20] [21 20] [21 20] [21 20] [21 20] [21 20] [21 20] 
+[21 20] [21 21] [21 21] [21 21] [21 21] [20 21] [20 21] 
+[20 21] [20 21] [20 21] [20 21] [20 21] [20 21] [20 21] 
+[20 21] [20 21] [20 21] [20 21] [20 21] [20 21] [20 21] 
+[20 21] [20 21] [20 21] [20 21] [20 22] [20 22] [20 22] 
+[20 22] [20 22] [20 22] [20 22] [20 22] [19 22] [19 22] 
+[19 22] [19 22] [19 22] [19 22] [19 22] [19 22] [19 22] 
+[19 22] [19 22] [19 22] [19 22] [19 22] [19 22] [18 22] 
+[18 22] [18 22] [18 22] [18 22] [18 22] [18 22] [18 22] 
+[17 22] [17 22] [17 22] [17 22] [17 22] [17 22] [17 22] 
+[17 22] [17 22] [17 22] [17 22] [17 22] [17 22] [16 22] 
+[16 22] [16 22] [16 22] [16 22] [16 22] [16 22] [16 22] 
+[16 22] [16 22] [16 22] [15 22] [15 22] [15 22] [15 22] 
+[15 22] [15 22] [15 22] [15 22] [15 22] [15 22] [15 22] 
+[15 22] [15 22] [15 21] [15 21] [15 21] [15 21] [15 21] 
+[14 21] [14 21] [14 21] [14 21] [14 21] [14 21] [14 21] 
+[14 21] [14 21] [14 21] [14 21] [14 21] [14 21] [13 21] 
+[13 21] [13 21] [13 21] [13 21] [13 21] [13 21] [13 21] 
+[13 21] [13 21] [12 21] [12 21] [12 21] [12 20] [12 20] 
+[12 20] [12 20] [12 20] [12 20] [12 20] [12 20] [13 20] 
+[13 20] [13 20] [13 20] [13 21] [13 21] [13 21] [13 21] 
+[13 21] [12 21] [12 21] [12 21] [12 21] [12 21] [13 21] 
+[13 21] [13 21] [13 21] [13 21] [13 21] [13 21] [13 21] 
+[13 21] [14 21] [14 21] [14 21] [14 21] [14 21] [14 21] 
+[14 21] [14 21] [14 21] [14 21] [13 20] [13 20] [13 20] 
+[13 20] [13 20] [13 20] [13 20] [13 20] [13 20] [13 20] 
+[13 20] [13 20] [13 20] [13 20] [13 20] [13 20] [13 20] 
+[12 20] [12 20] [12 20] [12 20] [12 20] [12 20] [12 20] 
+[12 20] [12 20] [12 20] [12 19] [12 19] [12 19] [12 19] 
+[12 19] [12 19] [12 19] [12 19] [12 19] [12 19] [12 19] 
+[12 19] [12 19] [12 19] [12 19] [11 19] [11 19] [11 18] 
+[11 18] [11 18] [11 18] [11 18] [11 18] [11 18] [11 18] 
+[11 18] [11 18] [11 18] [11 18] [11 18] [11 18] [11 18] 
+[11 18] [11 18] [11 18] [12 18] [12 18] [12 18] [12 18] 
+[12 18] [12 18] [12 18] [12 18] [12 18] [12 18] [12 18] 
+[12 18] [11 18] [11 18] [11 18] [11 18] [11 18] [11 18] 
+[11 18] [11 18] [11 18] [11 18] [11 18] [11 18] [11 18] 
+[11 18] [11 18] [10 18] [10 18] [10 18] [10 18] [10 17] 
+[10 17] [10 17] [10 18] 
+
+		Begin Printing Seed information
+
+Seed point: 11 18 	Path 0 2 	User path 0 54 0
+
+Seed point: 11 16 	Path 3 7 	User path 54 131 54
+
+Seed point: 11 12 	Path 8 9 	User path 131 142 131
+
+Seed point: 12 12 	Path 10 11 	User path 142 146 142
+
+Seed point: 12 11 	Path 12 13 	User path 146 171 146
+
+Seed point: 13 11 	Path 14 15 	User path 171 183 171
+
+Seed point: 13 10 	Path 16 16 	User path 183 196 183
+
+Seed point: 13 10 	Path 17 19 	User path 196 233 196
+
+Seed point: 14 9 	Path 20 27 	User path 233 304 233
+
+Seed point: 21 9 	Path 28 29 	User path 304 314 304
+
+Seed point: 21 10 	Path 30 31 	User path 314 328 314
+
+Seed point: 22 10 	Path 32 33 	User path 328 344 328
+
+Seed point: 22 11 	Path 34 35 	User path 344 362 344
+
+Seed point: 22 10 	Path 36 36 	User path 362 404 362
+
+Seed point: 22 10 	Path 37 38 	User path 404 580 404
+
+Seed point: 22 11 	Path 39 40 	User path 580 730 580
+
+Seed point: 22 12 	Path 41 41 	User path 730 747 730
+
+Seed point: 22 12 	Path 42 42 	User path 747 868 747
+
+Seed point: 22 12 	Path 43 45 	User path 868 983 868
+
+Seed point: 22 14 	Path 46 47 	User path 983 995 983
+
+Seed point: 22 13 	Path 48 56 	User path 995 1047 995
+
+Seed point: 21 20 	Path 57 57 	User path 1047 1056 1047
+
+Seed point: 21 20 	Path 58 59 	User path 1056 1067 1056
+
+Seed point: 21 21 	Path 60 61 	User path 1067 1078 1067
+
+Seed point: 20 21 	Path 62 63 	User path 1078 1096 1078
+
+Seed point: 20 22 	Path 64 69 	User path 1096 1156 1096
+
+Seed point: 15 22 	Path 70 72 	User path 1156 1164 1156
+
+Seed point: 14 21 	Path 73 75 	User path 1164 1187 1164
+
+Seed point: 12 21 	Path 76 78 	User path 1187 1269 1187
+
+Seed point: 12 19 	Path 79 82 	User path 1269 1326 1269
+
+Seed point: 10 18 	Path 83 83 	User path 1326 1326 1326
+
+---------------------
+
+Print path: 
+
+
+
+[11 18] [11 17] [11 16] [11 16] [11 15] [11 14] [11 13] 
+[11 12] [11 12] [12 12] [12 12] [12 11] [12 11] [13 11] 
+[13 11] [13 10] [13 10] [13 10] [14 10] [14 9] [14 9] 
+[15 9] [16 9] [17 9] [18 9] [19 9] [20 9] [21 9] 
+[21 9] [21 10] [21 10] [22 10] [22 10] [22 11] [22 11] 
+[22 10] [22 10] [22 10] [22 11] [22 11] [22 12] [22 12] 
+[22 12] [22 12] [22 13] [22 14] [22 14] [22 13] [22 13] 
+[22 14] [22 15] [22 16] [22 17] [22 18] [22 19] [22 20] 
+[21 20] [21 20] [21 20] [21 21] [21 21] [20 21] [20 21] 
+[20 22] [20 22] [19 22] [18 22] [17 22] [16 22] [15 22] 
+[15 22] [15 21] [14 21] [14 21] [13 21] [12 21] [12 21] 
+[12 20] [12 19] [12 19] [11 19] [10 19] [10 18] [10 18] 
+
